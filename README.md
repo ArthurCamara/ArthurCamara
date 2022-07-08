@@ -2,11 +2,11 @@
 
 ## Oh, hi there! I'm Arthur! Nice to meet you!
 Here is the TL;DL of me: 
-- 🎓 I'm a PhD Candidate in CS at TU Delft. Should be done in early 2023. 🤞
-- ❕I will be joining Microsoft AI as an Intern in a few weeks 😄
+- 🎓 I'm a PhD Candidate in CS at TU Delft. ETA in early 2023. 🤞
+- ❕Until October, I'm also an intern @ [Naver Labs](https://github.com/naver/), working on Neural IR. 😄
 - 🔮 My interests are mainly in Information Retrieval 🔍 and Natural Language Processing 📜
-- 💬 [Ask me about Data Science, IR, NLP, etc!](mailto:arthur@abcamara.com)
-- 🩸 My pancreas is broken, so I use an open source version of it called [Loop](https://github.com/loopnlearn/Loop)
+- 💬 [Ask me about Data Science, IR, NLP, etc.!](mailto:arthur@abcamara.com)
+- 🩸 My pancreas is broken, so I use an open-source version of it called [FreeAPSX](https://github.com/ivalkou/freeaps)
 
 ### You can find me here:
 <a href="https://twitter.com/arthurcamara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arthurcamara" height="20" /></a>
