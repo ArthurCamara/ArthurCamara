@@ -7,7 +7,7 @@ Here is the TL;DR of me:
 - ❕ Previously, I was @ [Naver Labs](https://github.com/naver/) @ Grenoble, FR and @ [Bloomberg](https://github.com/bloomberg) @ London, UK 
 - 🔮 My interests are mainly in Information Retrieval 🔍 and Natural Language Processing 📜
 - 💬 [Ask me about Data Science, IR, NLP, etc.!](mailto:arthur@abcamara.com)
-- 🩸 My pancreas is broken, so I use an open-source version of it called [FreeAPSX](https://github.com/ivalkou/freeaps)
+- 🩸 My pancreas is broken, so I use an open-source version of it called [iAPS](https://github.com/Artificial-Pancreas/iAPS)
 
 ### You can find me here:
 <a href="https://twitter.com/arthurcamara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arthurcamara" height="20" /></a>
