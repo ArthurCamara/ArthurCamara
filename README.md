@@ -3,7 +3,7 @@
 ## Oh, hi there! I'm Arthur! Nice to meet you!
 Here is the TL;DR of me: 
 - 🧑‍🔬 I'm a Research Engineer @ [Zeta Alpha](https://github.com/zetaalphavector) working on Neural Information Retrieval
-- 🎓 I'm a PhD Candidate in CS at TU Delft. ETA in late 2023. 🤞
+- 🎓 I hold a PhD in Information Retrieval from TU Delft.
 - ❕ Previously, I was @ [Naver Labs](https://github.com/naver/) @ Grenoble, FR and @ [Bloomberg](https://github.com/bloomberg) @ London, UK 
 - 🔮 My interests are mainly in Information Retrieval 🔍 and Natural Language Processing 📜
 - 💬 [Ask me about Data Science, IR, NLP, etc.!](mailto:arthur@abcamara.com)
